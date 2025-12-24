@@ -24,6 +24,8 @@ include = [
   "/LICENSE",
 ]
 
+[workspace]
+
 [lib]
 path = "bindings/rust/lib.rs"
 
